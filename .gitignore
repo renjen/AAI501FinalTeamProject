@@ -1,0 +1,14 @@
+# Dataset (download from UCI; see README)
+data/
+human+activity+recognition+using+smartphones/
+*.zip
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
