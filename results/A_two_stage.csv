@@ -1,0 +1,3 @@
+,sit/stand accuracy,overall accuracy
+Linear SVM,0.9217986314760508,0.9619952494061758
+Linear SVM + specialist,0.927663734115347,0.9640312181879878

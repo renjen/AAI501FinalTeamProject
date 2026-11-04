@@ -1,0 +1,5 @@
+,baseline_cv_f1,tuned_cv_f1,best_params
+Gradient Boosting,0.9333723114266812,0.9354310866185148,"{'learning_rate': 0.2, 'max_iter': 300}"
+Logistic Regression,0.9330888258660665,0.9338974801229151,{'logisticregression__C': 0.1}
+Linear SVM,0.9299410770238895,0.9363655712105319,{'linearsvc__C': 0.1}
+RBF SVM,0.9218587051484979,0.9316251381745196,"{'svc__C': 100, 'svc__gamma': 0.0001}"
