@@ -1,0 +1,4 @@
+,Random forest,Mutual information,L1 logistic
+Random forest,20,2,7
+Mutual information,2,20,4
+L1 logistic,7,4,20

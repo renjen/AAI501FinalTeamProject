@@ -1,0 +1,31 @@
+rank,feature,meaning,sensor
+1,tGravityAcc-min()-X,"minimum of time-domain gravity acceleration, X axis",accelerometer
+2,tGravityAcc-max()-Y,"maximum of time-domain gravity acceleration, Y axis",accelerometer
+3,fBodyAccMag-energy(),energy (sum of squares) of frequency-domain body acceleration magnitude,accelerometer
+4,tGravityAcc-mean()-X,"average of time-domain gravity acceleration, X axis",accelerometer
+5,tBodyAccJerk-entropy()-Z,"entropy of time-domain body acceleration jerk (rate of change), Z axis",accelerometer
+6,"fBodyAcc-bandsEnergy()-1,8","energy in frequency band of frequency-domain body acceleration, bins 1,8, X axis",accelerometer
+7,tGravityAcc-energy()-Y,"energy (sum of squares) of time-domain gravity acceleration, Y axis",accelerometer
+8,"fBodyAcc-bandsEnergy()-1,8__1","energy in frequency band of frequency-domain body acceleration, bins 1,8, Y axis",accelerometer
+9,fBodyAccJerk-max()-Y,"maximum of frequency-domain body acceleration jerk (rate of change), Y axis",accelerometer
+10,tBodyAccJerk-entropy()-Y,"entropy of time-domain body acceleration jerk (rate of change), Y axis",accelerometer
+11,tGravityAcc-mean()-Y,"average of time-domain gravity acceleration, Y axis",accelerometer
+12,tBodyAccJerk-entropy()-X,"entropy of time-domain body acceleration jerk (rate of change), X axis",accelerometer
+13,tGravityAcc-entropy()-X,"entropy of time-domain gravity acceleration, X axis",accelerometer
+14,fBodyBodyAccJerkMag-energy(),energy (sum of squares) of frequency-domain body acceleration jerk (rate of change) magnitude,accelerometer
+15,tBodyAccJerk-max()-X,"maximum of time-domain body acceleration jerk (rate of change), X axis",accelerometer
+16,tGravityAcc-energy()-Z,"energy (sum of squares) of time-domain gravity acceleration, Z axis",accelerometer
+17,tGravityAcc-max()-X,"maximum of time-domain gravity acceleration, X axis",accelerometer
+18,tGravityAcc-min()-Y,"minimum of time-domain gravity acceleration, Y axis",accelerometer
+19,fBodyAcc-max()-Y,"maximum of frequency-domain body acceleration, Y axis",accelerometer
+20,fBodyAcc-meanFreq()-Z,"weighted mean frequency of frequency-domain body acceleration, Z axis",accelerometer
+21,tBodyAccJerk-min()-X,"minimum of time-domain body acceleration jerk (rate of change), X axis",accelerometer
+22,fBodyAcc-mad()-X,"median absolute deviation of frequency-domain body acceleration, X axis",accelerometer
+23,fBodyAcc-max()-Z,"maximum of frequency-domain body acceleration, Z axis",accelerometer
+24,fBodyAcc-skewness()-X,"skewness of frequency-domain body acceleration, X axis",accelerometer
+25,fBodyAccJerk-maxInds-X,"frequency with the most energy of frequency-domain body acceleration jerk (rate of change), X axis",accelerometer
+26,fBodyAccJerk-entropy()-X,"entropy of frequency-domain body acceleration jerk (rate of change), X axis",accelerometer
+27,fBodyAccJerk-std()-Y,"standard deviation of frequency-domain body acceleration jerk (rate of change), Y axis",accelerometer
+28,"tGravityAcc-arCoeff()-Y,1","autoregression coefficient of time-domain gravity acceleration, Y and 1 axis",accelerometer
+29,"tBodyAccJerk-correlation()-X,Y","correlation between axes of time-domain body acceleration jerk (rate of change), X and Y axis",accelerometer
+30,"tGravityAcc-correlation()-X,Y","correlation between axes of time-domain gravity acceleration, X and Y axis",accelerometer

@@ -1,0 +1,21 @@
+,meaning,Random forest,Mutual information,L1 logistic,mean rank
+tGravityAcc-max()-Y,"maximum of time-domain gravity acceleration, Y axis",7,4,8,6.333333333333333
+tGravityAcc-min()-Y,"minimum of time-domain gravity acceleration, Y axis",6,2,12,6.666666666666667
+tGravityAcc-mean()-Y,"average of time-domain gravity acceleration, Y axis",4,24,14,14.0
+tGravityAcc-min()-X,"minimum of time-domain gravity acceleration, X axis",2,45,1,16.0
+fBodyAccMag-energy(),energy (sum of squares) of frequency-domain body acceleration magnitude,26,41,2,23.0
+tBodyAccJerk-max()-X,"maximum of time-domain body acceleration jerk (rate of change), X axis",60,3,13,25.333333333333332
+"fBodyAcc-bandsEnergy()-1,8","energy in frequency band of frequency-domain body acceleration, bins 1,8, X axis",82,10,5,32.333333333333336
+fBodyAcc-mad()-X,"median absolute deviation of frequency-domain body acceleration, X axis",24,19,57,33.333333333333336
+tBodyAcc-max()-X,"maximum of time-domain body acceleration, X axis",36,1,84,40.333333333333336
+tGravityAcc-max()-X,"maximum of time-domain gravity acceleration, X axis",9,148,4,53.666666666666664
+"fBodyAccJerk-bandsEnergy()-1,8","energy in frequency band of frequency-domain body acceleration jerk (rate of change), bins 1,8, X axis",38,18,116,57.333333333333336
+tBodyGyroJerk-mad()-X,"median absolute deviation of time-domain body gyroscope jerk (rate of change), X axis",106,93,27,75.33333333333333
+fBodyAccJerk-max()-Y,"maximum of frequency-domain body acceleration jerk (rate of change), Y axis",92,143,7,80.66666666666667
+fBodyAcc-max()-X,"maximum of frequency-domain body acceleration, X axis",89,20,135,81.33333333333333
+fBodyBodyAccJerkMag-energy(),energy (sum of squares) of frequency-domain body acceleration jerk (rate of change) magnitude,121,75,48,81.33333333333333
+fBodyAcc-std()-X,"standard deviation of frequency-domain body acceleration, X axis",74,8,164,82.0
+tBodyGyro-min()-X,"minimum of time-domain body gyroscope, X axis",126,58,79,87.66666666666667
+fBodyAccMag-mad(),median absolute deviation of frequency-domain body acceleration magnitude,25,35,207,89.0
+tBodyAccJerk-entropy()-X,"entropy of time-domain body acceleration jerk (rate of change), X axis",78,169,21,89.33333333333333
+tBodyAcc-std()-X,"standard deviation of time-domain body acceleration, X axis",79,15,175,89.66666666666667
