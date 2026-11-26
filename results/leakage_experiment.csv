@@ -1,0 +1,4 @@
+Evaluation Method,Accuracy,Accuracy (%)
+Random 70/30 Split,0.9827742520398912,98.27742520398913
+Person-Based Test Split,0.96335,96.33500000000001
+Leave-One-Person-Out CV,0.94204,94.204
