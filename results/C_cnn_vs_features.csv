@@ -1,0 +1,5 @@
+input,model,test_f1_macro,test_f1_std
+All sensors,"Linear SVM, 561 engineered features",0.9629136765287276,0.0
+All sensors,"1D CNN, raw signals (9 channels)",0.9021628902307205,0.0037313049932703375
+Accelerometer only,"Linear SVM, 348 engineered features",0.9122163354411371,0.0
+Accelerometer only,"1D CNN, raw signals (6 channels)",0.9034046302015805,0.010547677269929978
